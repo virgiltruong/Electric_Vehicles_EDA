@@ -4,6 +4,10 @@
 
 This project involves exploratory data analysis (EDA) of a dataset focusing on electric vehicles. The dataset includes essential information about various electric vehicles, including their specifications, pricing, and geographic details.
 
+## Dashboard
+
+After collecting and performing exploratory data analysis, I have created 2 pages of dashboard to summarize overall findings. Link to [IBM Cognos Analytics Dashboards](https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FEDA%2BDashboard&action=view&mode=dashboard&subView=model0000019267a9966c_00000002)
+
 ## Dataset Information
 
 The dataset is obtained from Kaggle:
