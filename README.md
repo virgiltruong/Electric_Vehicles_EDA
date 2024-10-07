@@ -10,8 +10,7 @@ After collecting and performing exploratory data analysis, I have created 2 page
 
 ## Dataset Information
 
-The dataset is obtained from Kaggle:
-https://www.kaggle.com/datasets/ironwolf404/electric-vehicle-population-in-usa
+The dataset is obtained from [Kaggle](https://www.kaggle.com/datasets/ironwolf404/electric-vehicle-population-in-usa)
 
 The dataset contains the following columns:
 
