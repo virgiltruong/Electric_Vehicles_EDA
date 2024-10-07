@@ -47,8 +47,17 @@ However, I have minimized into the following data set as the other columns are n
 
 ## Tools and Technologies
 
-- **Programming Language**: Python
-- **Libraries Used**: 
-  - Pandas and NumPy for data manipulation and wrangling
-  - Matplotlib and Seaborn for data visualization
-- **Dashboard Tool**: IBM Cognos Analytics for presenting insights and visualizations
+- **Programming Language**: 
+  - **Python**: Used for data manipulation and analysis.
+
+- **Key Libraries**:
+  - **Pandas**: Used for data wrangling, allowing for efficient handling and analysis of structured data.
+  - **NumPy**: Used for numerical operations and handling arrays.
+  - **Matplotlib**: Used for creating static, animated, and interactive visualizations in Python.
+  - **Seaborn**: Used for creating more complex plots, providing a high-level interface for drawing attractive statistical graphics.
+
+- **Data Visualization and Dashboarding**:
+  - **IBM Cognos Analytics**: Used for creating interactive dashboards and visual reports, allowing for easy exploration and presentation of data insights.
+
+- **Development Environment**:
+  - **Jupyter Notebook**: Used for documenting the analysis process, combining code execution, visualizations, and narrative text in a single document.
